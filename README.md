@@ -1,5 +1,5 @@
-## Hi, I'm Seulhee 👋🏻👋🏻👋🏻
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=93ABD3&height=180&section=header&text=Hi,%20I'm%20Seulhee!%20🤸🏻‍♀️&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
@@ -10,7 +10,7 @@
 > 🖇️ Django <br>
 > :octocat: Git | Github <br>
 > 🌐 HTML | CSS <br>
-> :bulb: JavaScript
+> ☁ JavaScript
 
 ### 📫 Get in touch
 > Instagram - [@sh_hyi](https://www.instagram.com/sh_hyi/) <br>
