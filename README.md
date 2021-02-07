@@ -9,4 +9,11 @@
 > 🗣 Python <br>
 > 🖇️ Django <br>
 > :octocat: Git | Github <br>
-> 🌐 HTML | CSS
+> 🌐 HTML | CSS <br>
+> :bulb: JavaScript
+
+### 📫 Get in touch
+> Instagram - [@sh_hyi](https://www.instagram.com/sh_hyi/)
+> Facebook - [seulhee](https://www.facebook.com/profile.php?id=100010707647621)
+> Mail - [mail](mailto:3021062@gmail.com)
+
