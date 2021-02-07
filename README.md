@@ -20,9 +20,5 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SeulHee&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=487eb0&icon_color=487eb0&text_color=000&bg_color=0,93ABD3">
-
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seulhee&hide=issues&title_color=487eb0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seulhee&hide=issues&title_color=487eb0&show_icons=true&icon_color=487eb0)](https://github.com/anuraghazra/github-readme-stats)
 
