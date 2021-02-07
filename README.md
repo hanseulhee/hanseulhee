@@ -13,7 +13,7 @@
 > :bulb: JavaScript
 
 ### 📫 Get in touch
-> Instagram - [@sh_hyi](https://www.instagram.com/sh_hyi/)
-> Facebook - [seulhee](https://www.facebook.com/profile.php?id=100010707647621)
+> Instagram - [@sh_hyi](https://www.instagram.com/sh_hyi/) <br>
+> Facebook - [seulhee](https://www.facebook.com/profile.php?id=100010707647621) <br>
 > Mail - [mail](mailto:3021062@gmail.com)
 
