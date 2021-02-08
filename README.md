@@ -28,4 +28,4 @@
 
 
 
-<img height="140px" src="https://github-readme-stats.vercel.app/api?username=hanseulhee&hide=issues&show_icons=true&line_height=21&text_color=000&icon_color=487eb0&theme=graywhite&title_color=487eb0" /><img height="140px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" />
+<img height="142px" src="https://github-readme-stats.vercel.app/api?username=hanseulhee&hide=issues&show_icons=true&line_height=21&text_color=000&icon_color=487eb0&theme=graywhite&title_color=487eb0" /><img height="142px" width="435px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" />
