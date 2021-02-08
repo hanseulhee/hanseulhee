@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A3D2CA&height=180&section=header&text=Hi,%20I'm%20Seulhee!%20👊🏻&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
 <div align=right>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"width=60">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseulhee%2Fhit-counter&count_bg=%2370ADB5&title_bg=%23132743&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
@@ -26,7 +27,6 @@
 
 <hr>
 
-<!-- <img height="142px" src="https://github-readme-stats.vercel.app/api?username=hanseulhee&hide=issues&show_icons=true&line_height=21&text_color=000&icon_color=487eb0&theme=graywhite&title_color=487eb0" /><img height="142px" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" /> -->
   <img align="left" width="455" height="165" src="https://github-readme-stats.vercel.app/api/?username=hanseulhee&show_icons=true&title_color=487eb0&icon_color=000000&text_color=000000" alt="github stats"/>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
