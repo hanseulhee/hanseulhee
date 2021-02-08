@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A3D2CA&height=180&section=header&text=Hi,%20I'm%20Seulhee!%20👊🏻&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
-<!-- <div align=right> -->
+<div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseulhee%2Fhit-counter&count_bg=%2370ADB5&title_bg=%23132743&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>
 
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
@@ -26,4 +28,4 @@
 
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=hanseulhee&hide=issues&show_icons=true&line_height=21&text_color=000&icon_color=487eb0&theme=graywhite&title_color=487eb0" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" />
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=hanseulhee&hide=issues&show_icons=true&line_height=21&text_color=000&icon_color=487eb0&theme=graywhite&title_color=487eb0" /><img height="140px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite" />
