@@ -26,12 +26,6 @@
 > Facebook - [seulhee](https://www.facebook.com/profile.php?id=100010707647621) <br>
 > Mail - [mail](mailto:3021062@gmail.com)
 
-<hr>
-
-  <img align="left" width="455" height="165" src="https://github-readme-stats.vercel.app/api/?username=hanseulhee&show_icons=true&title_color=487eb0&icon_color=000000&text_color=000000" alt="github stats"/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&title_color=487eb0" />
 
 ### 🌱 Tech that I've used at least once
 
@@ -55,3 +49,11 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+
+
+<hr>
+
+  <img align="left" width="455" height="165" src="https://github-readme-stats.vercel.app/api/?username=hanseulhee&show_icons=true&title_color=487eb0&icon_color=000000&text_color=000000" alt="github stats"/>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&title_color=487eb0" />
