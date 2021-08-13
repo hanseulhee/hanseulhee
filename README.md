@@ -23,9 +23,8 @@
 ### 📫 Get in touch
 
 > Instagram - [@sh_hyi](https://www.instagram.com/sh_hyi/) <br>
-> Facebook - [seulhee](https://www.facebook.com/profile.php?id=100010707647621) <br>
+> Velog - [@seulhyi](https://velog.io/@seulhyi) <br>
 > Mail - [mail](mailto:3021062@gmail.com)
-
 
 ### 🌱 Tech that I've used at least once
 
@@ -34,8 +33,6 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
-
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222323"/>
 
@@ -49,7 +46,13 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 
 <hr>
 
