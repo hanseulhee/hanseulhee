@@ -54,6 +54,8 @@
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=styled-components&logoColor=white"/>
+
 <hr>
 
   <img align="left" width="455" height="165" src="https://github-readme-stats.vercel.app/api/?username=hanseulhee&show_icons=true&title_color=487eb0&icon_color=000000&text_color=000000" alt="github stats"/>
