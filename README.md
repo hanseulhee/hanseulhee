@@ -43,6 +43,8 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 
+<img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
@@ -54,11 +56,13 @@
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
 
+ <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+
+
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=styled-components&logoColor=white"/>
 
 <hr>
+<div align=center>
+<img width="380" src="https://github-readme-stats.vercel.app/api/?username=hanseulhee&show_icons=true&title_color=487eb0&icon_color=000000&text_color=000000" alt="github stats"/>
+</div>
 
-  <img align="left" width="455" height="165" src="https://github-readme-stats.vercel.app/api/?username=hanseulhee&show_icons=true&title_color=487eb0&icon_color=000000&text_color=000000" alt="github stats"/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hanseulhee&layout=compact&title_color=487eb0" />
