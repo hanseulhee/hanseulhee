@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A3D2CA&height=180&section=header&text=Hi,%20I'm%20Seulhee!%20👊🏻&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
 
-<div align=right>
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"width=50">
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif"width=50">
+<div align="right">
+<img src="chibird.gif" width="100" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseulhee%2Fhit-counter&count_bg=%2370ADB5&title_bg=%23132743&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
