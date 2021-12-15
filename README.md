@@ -21,7 +21,6 @@
 
 ### 📫 Get in touch
 
-> Instagram - [@sh_hyi](https://www.instagram.com/sh_hyi/) <br>
 > Velog - [@seulhyi](https://velog.io/@seulhyi) <br>
 > Mail - [mail](mailto:3021062@gmail.com)
 
