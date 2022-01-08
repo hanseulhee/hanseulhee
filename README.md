@@ -1,32 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=A3D2CA&height=180&section=header&text=Hi,%20I'm%20Seulhee!%20👊🏻&fontSize=26&fontColor=242a2e&animation=fadeIn&fontAlignY=70)
+## Hi, I'm Seulhee! Frontend Developer 👨‍💻 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseulhee%2Fhit-counter&count_bg=%2370ADB5&title_bg=%23132743&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-<div align="right">
-<img src="PigWalkCycle.gif" width="100" />
+### A little more about me 🙂
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseulhee%2Fhit-counter&count_bg=%2370ADB5&title_bg=%23132743&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
-</div>
-
-<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='50'> -->
-
-### ⚡ Tech Stack
-
-> 🗣 Python <br>
-> 🖇️ Django <br>
-> :octocat: Git | Github <br>
-> 🌐 HTML | CSS <br>
-> ☁ JavaScript
-
-### 📫 Get in touch
-
-> Velog - [@seulhyi](https://velog.io/@seulhyi) <br>
-> Mail - [mail](mailto:3021062@gmail.com)
-
-### 🌱 Tech that I've used at least once
-
-<div align=center>
+```javascript
+const Seulhee = {
+  nickName: "HanSeulhee",
+  frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "React"],
+  interests: ["UI/UX", "interactive web"],
+};
+```
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
@@ -56,7 +38,9 @@
 
  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 
-
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=styled-components&logoColor=white"/>
 
+---
 
+Velog - [@seulhyi](https://velog.io/@seulhyi) 
+Mail - [mail](mailto:3021062@gmail.com)
