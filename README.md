@@ -5,14 +5,12 @@
 ```javascript
 const Seulhee = {
   nickName: "HanSeulhee",
-  frontEnd: ["HTML", "CSS", "SCSS", "JavaScript", "TypeScript", "React", "Next.js"],
-  interests: ["UI/UX", "Food tour", "Swimming"],
+  interests: ["Frontend", "UI/UX", "Food tour", "Swimming"],
 };
 ```
 
 ### Contect me 🌱
 
-Blog - [www.seulheehan.com](https://www.seulheehan.com)<br />
-Resume - [www.resume.seulheehan.com](https://resume.seulheehan.com/)<br />
 Velog - [@seulhyi](https://velog.io/@seulhyi) <br />
+Resume - [www.resume.seulheehan.com](https://resume.seulheehan.com/)<br />
 Mail - [mail](mailto:3021062@gmail.com)
