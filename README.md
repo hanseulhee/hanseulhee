@@ -18,7 +18,8 @@ const Seulhee = {
 ```
 
 Blog - [www.seulheehan.com](https://www.seulheehan.com/) <br />
-Resume - [www.resume.seulheehan.com](https://resume.seulheehan.com/)<br />
+
+<!-- Resume - [www.resume.seulheehan.com](https://resume.seulheehan.com/)<br /> -->
 
 ### Contact me 🌱
 
