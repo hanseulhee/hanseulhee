@@ -17,10 +17,6 @@ const Seulhee = {
 };
 ```
 
-Blog - [www.seulheehan.com](https://www.seulheehan.com/) <br />
-
-Resume - [www.resume.seulheehan.com](https://resume-q8w5gq4mp-hanseulhee.vercel.app/)<br />
-
 ### Contact me 🌱
 
 Mail - [3021062@gmail.com](mailto:3021062@gmail.com) <br />
