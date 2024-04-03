@@ -1,8 +1,8 @@
 ## Hi, I'm Seulhee! Frontend Developer ☕️ <div align="right">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanseulhee%2Fhit-counter&count_bg=%2370ADB5&title_bg=%23132743&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)</div>
 
-#### About me
+<!-- #### About me
 
-<b>누군가에게 도움이 될 수 있는 서비스를 개발하는 것이 개발을 공부하는 동기이자 최종적인 목표로 삼고있습니다.</b>
+<b>누군가에게 도움이 될 수 있는 서비스를 개발하는 것이 개발을 공부하는 동기이자 최종적인 목표로 삼고있습니다.</b> -->
 
 <!-- #### Experience
 
